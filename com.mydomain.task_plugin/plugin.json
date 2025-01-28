@@ -1,0 +1,8 @@
+{
+  "name": "Task Plugin",
+  "package": "com.mydomain.task_plugin",
+  "description": "Plugin to test adding of additional form data",
+  "version": "0.0.1",
+  "system_packages": [],
+  "sdk": "0.1.2-pre"
+}
